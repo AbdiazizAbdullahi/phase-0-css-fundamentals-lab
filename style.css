@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: cornflowerblue;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+p {
+  width: 900px;
+  text-align: center;
+}
+
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
+
+div #details {
+  float: left;
+}
+
+div {
+  background-color: darkcyan;
+  text-align: center;
+  column-width: 25%;
+}
